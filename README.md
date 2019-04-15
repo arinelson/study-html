@@ -1,2 +1,2 @@
 # study-html
-Um teste de linhagem entre páginas web
+Um teste de linkagem entre páginas web
